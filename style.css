@@ -1,0 +1,71 @@
+#pp
+{
+    margin-top: 8%;
+    text-align: center;
+}
+header
+{
+    background-color: black;
+    width: 100%;
+    text-align: center;
+    word-spacing: 100px;
+    padding:1px;
+    display:inline-block;
+}
+body
+{
+    background: url(jeunesse.jpg) ;
+    background-size: 100% 300px;
+    background-repeat: no-repeat;
+    background-position-x: center;
+    text-decoration: dashed;
+    background-attachment:fixed ;
+    margin: auto;
+    height: 100%;
+}
+#PATRONAGE
+{
+    background-color: rgba(241, 141, 141, 0.396);
+    padding: 60px;
+}
+#b
+
+{
+    background-color: rgba(241, 141, 141, 0.396);
+    padding: 60px;
+}
+.pp
+{
+    margin-top: 10%;
+}
+footer
+{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:14px;
+    background-color:#000000;
+    color:#CCCCCC;
+    display:inline-block;
+    vertical-align:top;
+    text-align:center;
+    width: 100%;
+}
+
+.image
+{
+    width: 10%;
+    height: 50%;
+}
+#historique
+{
+    font-size: 100px;
+}
+.impatronage
+{
+    width: 30%;
+    height: 60%;
+}
+.texte
+{
+    
+    text-align: left;
+}
